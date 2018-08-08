@@ -1,0 +1,13 @@
+node.js의 인터페이스는 javascript의 문법으로 만들어짐
+javascript는 web browser를 프로그래밍적으로 제어하기 위한 언어
+web browser를 javascript로 제어하는 법 해보기
+사용자에게 보여지는 클라이언트쪽 부분과 서버내에서 데이터를 처리하는 서버측 부분을 하나의 언어인 자바스크립트로 구현
+
+DB - MongoDB, Mysql
+
+framework - 공통적인 부분을 미리 구현해 놓은 것
+            
+module/API - 
+
+Node.js AWESOME 검색 - 주목받는 모듈들의 목록 보기
+
